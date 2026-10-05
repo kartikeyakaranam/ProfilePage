@@ -32,7 +32,6 @@ I’m Karanam Kartikeya, pursuing a **B.Tech in Information Technology at Manipa
 - Flexbox and CSS Grid
 - Media queries for responsive design
 
-The portfolio itself uses no JavaScript, frameworks, or external dependencies.
 
 ## Project Files
 
@@ -42,7 +41,7 @@ The portfolio itself uses no JavaScript, frameworks, or external dependencies.
 | `style.css` | Styling and responsive layouts |
 | `assets/profile.png` | Profile photograph |
 | `assets/favicon.svg` | Browser tab icon |
-| `START-HERE.txt` | Editing and hosting instructions |
+
 
 ## Run Locally
 
